@@ -15,4 +15,15 @@ Contents
       | `delete_at_pos` | O(n) |
       | `insert_at_front` | O(n) |
       | `reverse` | O(n) |
-
+      2. Stack
+       Basic Operations on Stacks.
+    
+    
+      | Operation | Time Complexity |
+      | --- | --- |
+      | `push` | Ammortized O(1) |
+      | `pop` | O(1) |
+      | `peek` | O(1) |
+      | `is_empty` | O(1) |
+      
+     
